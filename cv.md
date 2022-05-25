@@ -53,6 +53,7 @@
  
 ## **Courses**
 
+![RS_School](RS_School.PNG)
 
 ---
  
